@@ -43,6 +43,7 @@
     <Compile Include="ChiSquare.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="DistributionModel.cs" />
+    <Compile Include="Erlang.cs" />
     <Compile Include="FDistribution.cs" />
     <Compile Include="Gaussian.cs" />
     <Compile Include="GradientEstimation.cs" />
@@ -52,6 +53,8 @@
     <Compile Include="Helpers\MergeSort.cs" />
     <Compile Include="Helpers\PolynomialHelper.cs" />
     <Compile Include="LinearAlgebra\MatrixOp.cs" />
+    <Compile Include="LogNormal.cs" />
+    <Compile Include="Poisson.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomEngine.cs" />
     <Compile Include="SpecialFunctions\ClampFunction.cs" />
